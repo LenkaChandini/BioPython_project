@@ -66,10 +66,15 @@ This project aims to identify potential therapeutic agents for adenovirus-induce
 * Visualization of drug-protein interactions revealed key residues involved in binding.
 * Generated a comprehensive dataset of drug-protein interaction metrics.
 
+ ![Alt Text](C:\Users\chand\OneDrive\Pictures\Screenshots\Screenshot 2024-12-17 150856.png) 
+
 # Future Directions
 * Experimental validation of top drug candidates.
 * Explore combination therapies for conjunctivitis.
 * Expand methodologies to other viral infections.
+
+![Alt Text](path_to_image)
+
 
 ## Final Results
 
