@@ -71,5 +71,26 @@ This project aims to identify potential therapeutic agents for adenovirus-induce
 * Explore combination therapies for conjunctivitis.
 * Expand methodologies to other viral infections.
 
+## Final Results
+
+| **Drug**         | **Interaction (%)** | **LabuteASA** | **TPSA**   | **Polarity**   | **Binding Affinity (kcal/mol)** |
+|------------------|---------------------|---------------|------------|----------------|---------------------------------|
+| **Erythromycin** | 89.86              | 303.595       | 193.91     | High           | -6.87                          |
+| **Tobramycin**   | 79.71              | 185.051       | 268.17     | High           | -6.46                          |
+| **Ofloxacin**    | 79.71              | 122.408       | 105.51     | Moderate       | -6.27                          |
+| **Ciprofloxacin**| 78.26              | 137.043       | 74.57      | Low            | -6.26                          |
+| **Olopatadine**  | 66.67              | 147.907       | 49.77      | Low            | -6.14                          |
+| **Ganciclovir**  | 57.97              | 100.854       | 139.28     | Moderate       | -5.77                          |
+| **Trimethoprim** | 50.73              | 122.408       | 105.51     | Moderate       | -6.15                          |
+| **Acyclovir**    | 47.83              | 89.695        | 119.05     | Moderate       | -6.26                          |
+
+---
+
+### Highlights
+- **Erythromycin** has the highest interaction percentage and strongest binding affinity.
+- Drugs with higher polarity (LabuteASA/TPSA) may have better solubility but may require transporters for cell permeability.
+
+
+
 # Conclusion
 This project demonstrates how computational tools can help identify potential treatments for adenovirus-induced conjunctivitis. Using techniques like molecular docking, homology modeling, and descriptor analysis, we identified promising drug candidates such as Erythromycin and Tobramycin. These findings provide a strong foundation for further experimental validation and offer a cost-effective approach to drug discovery. This study can be extended to explore treatments for other viral infections in the future.
