@@ -36,12 +36,13 @@ This project aims to identify potential therapeutic agents for adenovirus-induce
   
 # Drugs and Their Properties
 
-Drug	Interaction (%)	LabuteASA	TPSA	Polarity
-Erythromycin	89.86	303.595	193.91	High
-Tobramycin	79.71	185.051	268.17	High
-Ofloxacin	79.71	122.408	105.51	Moderate
-Ciprofloxacin	78.26	137.043	74.57	Low
-Olopatadine	66.67	147.907	49.77	Low
+| Drug            | Interaction (%) | LabuteASA | TPSA   | Polarity   |
+|-----------------|----------------|----------|-------|-----------|
+| Erythromycin    | 89.86          | 303.595  | 193.91| High      |
+| Tobramycin      | 79.71          | 185.051  | 268.17| High      |
+| Ofloxacin       | 79.71          | 122.408  | 105.51| Moderate  |
+| Ciprofloxacin   | 78.26          | 137.043  | 74.57 | Low       |
+| Olopatadine     | 66.67          | 147.907  | 49.77 | Low       |
 
 # Workflow
 
